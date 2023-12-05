@@ -2,3 +2,4 @@
 # laravel-inventory
 # laravel-inventory
 # laravel-inventory
+# laravel-inventory
