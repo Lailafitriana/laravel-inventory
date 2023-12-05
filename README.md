@@ -1,5 +1,5 @@
 ## Installation and Usage Guide
-Follow these steps to set up the Laravel Inventory Laravel project on your local machine:
+Follow these steps to set up the Laravel Inventory project on your local machine:
 
 **Requirements:**
 Composer, PHP version >5 and <8.
